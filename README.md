@@ -16,3 +16,5 @@ The preprocessing steps include:
 
 Then, the CNN model, known for its robust feature extraction capabilties is used to fit the dataset.
 An accuracy of 90% was achieved for validation data.
+
+For post-processing, loss and accuracy curves are plot and predictions on custom images are made for better inference of the model.
